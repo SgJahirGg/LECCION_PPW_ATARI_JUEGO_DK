@@ -15,8 +15,67 @@ body{
     overflow: hidden;
 }
 
-.Plataforma {
+.plataforma {
     position: absolute;
     height: 10px;
     background-color: #ff0000;
 }
+
+.escalera {
+    position: absolute;
+    width: 10px;
+    height: 100px;
+    background-color: blue;
+}
+
+.plataforma-1 {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    }
+
+.plataforma-2{
+    width: 80%;
+    bottom: 100px;
+    left: 10%;
+}
+.plataforma-3 {
+    width: 90%;
+    bottom: 200px;
+    left: 5%;
+    }
+
+.plataforma-4 {
+    width: 70%;
+    bottom: 300px;
+    left: 15%;
+    }
+
+.plataforma-5 {
+    width: 100%;
+    bottom: 400px;
+    left: 0;
+    }
+
+
+.escalera-1 {
+    height: 100px;
+    bottom: 0;
+    left: 50%;
+    }    
+.escalera-2 {
+    height: 100px;
+    bottom: 100px;
+    left: 30%;
+}
+.escalera-3 {
+    height: 100px;
+    bottom: 200px;
+    left: 70%;
+    }
+
+.escalera-4 {
+    height: 100px;
+    bottom: 300px;
+    left: 40%;
+    }
