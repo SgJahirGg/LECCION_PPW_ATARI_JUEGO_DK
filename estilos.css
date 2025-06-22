@@ -17,7 +17,7 @@ body{
 
 .plataforma {
     position: absolute;
-    height: 10px;
+    height: 15px;
     background-color: #ff0000;
 }
 
@@ -52,7 +52,7 @@ body{
     }
 
 .plataforma-5 {
-    width: 100%;
+    width: 170%;
     bottom: 400px;
     left: 0;
     }
@@ -82,7 +82,14 @@ body{
 
 .donkey-kong {
   position: absolute;
-  width: 50px; 
-  bottom: 400px; 
-  left: 10%; 
+  width: 90px; 
+  bottom: 411px; 
+  left: 5%; 
+}
+
+.mario{
+    position:absolute;
+    width: 40px;
+    bottom: 11px;
+    left: 90%;
 }
