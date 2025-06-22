@@ -79,3 +79,10 @@ body{
     bottom: 300px;
     left: 40%;
     }
+
+.donkey-kong {
+  position: absolute;
+  width: 50px; 
+  bottom: 400px; 
+  left: 10%; 
+}
