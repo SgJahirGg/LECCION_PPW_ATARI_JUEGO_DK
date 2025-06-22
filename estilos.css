@@ -6,3 +6,17 @@ body{
  align-items: center;
  height: 100vh;
 }
+
+.contenido-juego {
+    position: relative;
+    width: 400px;
+    height: 500px;
+    background-color: black;
+    overflow: hidden;
+}
+
+.Plataforma {
+    position: absolute;
+    height: 10px;
+    background-color: #ff0000;
+}
