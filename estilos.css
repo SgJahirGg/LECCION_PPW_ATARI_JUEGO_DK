@@ -101,3 +101,10 @@ body{
     left: 30%;
 
 }
+
+.princesa{
+    position:absolute;
+    width: 40px;
+    bottom: 411px;
+    left: 70%;
+}
